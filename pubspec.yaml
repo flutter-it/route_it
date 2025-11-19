@@ -1,7 +1,7 @@
 name: route_it
-description: "A new Flutter package project."
+description: "an easy to use routing package for Flutter applications"
 version: 0.0.1
-homepage:
+repository: https://github.com/flutter-it/route_it 
 
 environment:
   sdk: ^3.10.0
